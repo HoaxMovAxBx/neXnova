@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Acountcreate.qml</file>
+        <file>Authenticator.qml</file>
+        <file>Gamescreen.qml</file>
+        <file>main.qml</file>
+        <file>Razeselector.qml</file>
+        <file>TestEntity.qml</file>
+        <file>UniverseQml.qml</file>
+        <file>razesqml/gultra.qml</file>
+        <file>razesqml/voltra.qml</file>
+        <file>Techtree.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Chat.qml</file>
+        <file>TechtreeNode.qml</file>
+        <file>loading.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sfx/sounds/sound1.wav</file>
+        <file>sfx/sounds/sound2.wav</file>
+        <file>sfx/sounds/sound3.wav</file>
+        <file>sfx/sounds/sound4.wav</file>
+        <file>sfx/sounds/sound5.wav</file>
+        <file>sfx/sounds/sound6.wav</file>
+        <file>sfx/music/outz.ogg</file>
+    </qresource>
+</RCC>
